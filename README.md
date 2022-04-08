@@ -1,6 +1,7 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/sale-reporting&target_branch=13.0)
-[![Build Status](https://travis-ci.com/OCA/sale-reporting.svg?branch=13.0)](https://travis-ci.com/OCA/sale-reporting)
+[![Pre-commit Status](https://github.com/OCA/sale-reporting/actions/workflows/pre-commit.yml/badge.svg?branch=13.0)](https://github.com/OCA/sale-reporting/actions/workflows/pre-commit.yml?query=branch%3A13.0)
+[![Build Status](https://github.com/OCA/sale-reporting/actions/workflows/test.yml/badge.svg?branch=13.0)](https://github.com/OCA/sale-reporting/actions/workflows/test.yml?query=branch%3A13.0)
 [![codecov](https://codecov.io/gh/OCA/sale-reporting/branch/13.0/graph/badge.svg)](https://codecov.io/gh/OCA/sale-reporting)
 [![Translation Status](https://translation.odoo-community.org/widgets/sale-reporting-13-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/sale-reporting-13-0/?utm_source=widget)
 
@@ -20,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[product_sold_by_delivery_week](product_sold_by_delivery_week/) | 13.0.1.1.0 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Adds a field that graphically hints the weekly product sales
+[product_sold_by_delivery_week](product_sold_by_delivery_week/) | 13.0.1.1.1 | [![chienandalu](https://github.com/chienandalu.png?size=30px)](https://github.com/chienandalu) | Adds a field that graphically hints the weekly product sales
 [sale_comment_template](sale_comment_template/) | 13.0.1.0.0 |  | Comments texts templates on Sale documents
 [sale_layout_category_hide_detail](sale_layout_category_hide_detail/) | 13.0.1.1.0 |  | Hide details for sections in sale orders and invoices for reports and customer portal
 [sale_order_line_position](sale_order_line_position/) | 13.0.1.0.0 |  | Adds position number on sale order line.
