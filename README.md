@@ -22,11 +22,13 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [sale_comment_template](sale_comment_template/) | 14.0.2.1.0 |  | Comments texts templates on Sale documents
+[sale_layout_category_hide_detail](sale_layout_category_hide_detail/) | 14.0.1.0.0 |  | Hide details for sections in sale orders and invoices for reports and customer portal
 [sale_order_line_position](sale_order_line_position/) | 14.0.1.1.0 |  | Adds position number on sale order line.
 [sale_order_report_product_image](sale_order_report_product_image/) | 14.0.1.0.0 |  | Show product images on Sale documents
 [sale_order_weight](sale_order_weight/) | 14.0.1.0.0 |  | Add products weight in report for sale order
 [sale_outgoing_product](sale_outgoing_product/) | 14.0.1.0.0 |  | Module that generates a view for outgoing product
 [sale_report_crossed_out_original_price](sale_report_crossed_out_original_price/) | 14.0.1.1.0 |  | Sale report crossed out original price when a discount exists
+[sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered subtotal
 
 [//]: # (end addons)
 

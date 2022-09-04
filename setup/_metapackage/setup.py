@@ -9,11 +9,13 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo14-addon-sale_comment_template',
+        'odoo14-addon-sale_layout_category_hide_detail',
         'odoo14-addon-sale_order_line_position',
         'odoo14-addon-sale_order_report_product_image',
         'odoo14-addon-sale_order_weight',
         'odoo14-addon-sale_outgoing_product',
         'odoo14-addon-sale_report_crossed_out_original_price',
+        'odoo14-addon-sale_report_delivered_subtotal',
     ],
     classifiers=[
         'Programming Language :: Python',
