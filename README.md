@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[sale_comment_template](sale_comment_template/) | 14.0.2.1.0 |  | Comments texts templates on Sale documents
+[sale_comment_template](sale_comment_template/) | 14.0.2.1.2 |  | Comments texts templates on Sale documents
 [sale_layout_category_hide_detail](sale_layout_category_hide_detail/) | 14.0.1.0.2 |  | Hide details for sections in sale orders and invoices for reports and customer portal
 [sale_order_invoice_date](sale_order_invoice_date/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Display the invoice date on Sales Order analysis reports
 [sale_order_line_position](sale_order_line_position/) | 14.0.1.1.0 |  | Adds position number on sale order line.
@@ -30,6 +30,7 @@ addon | version | maintainers | summary
 [sale_outgoing_product](sale_outgoing_product/) | 14.0.1.0.0 |  | Module that generates a view for outgoing product
 [sale_report_commitment_date](sale_report_commitment_date/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Display the commitment date on Sales Order analysis reports
 [sale_report_crossed_out_original_price](sale_report_crossed_out_original_price/) | 14.0.1.1.0 |  | Sale report crossed out original price when a discount exists
+[sale_report_delivered](sale_report_delivered/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered
 [sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered subtotal
 [sale_report_delivery_date](sale_report_delivery_date/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Display the delivery date on Sales Order analysis reports
 
